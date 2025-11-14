@@ -18,7 +18,7 @@
 
 # | 0 | 04/11/2025 | Initialized repo, added README 
 # | 1 | 07/11/2025 | ATBS Chapter 1 
-# 
+# | 2 | 13/11/2025 | ATBS Chapter 2
 
 # \## Contact
 
