@@ -24,6 +24,7 @@
 # | 5 | 22/11/2025 | ATBS Chapter 5
 # | 6 | 27/11/2025 | ATBS Chapter 6
 # | 7 | 29/11/2025 | ATBS Chapter 7
+# | 8 | 05/12/2025 | ATBS Chapter 8
 
 # \## Contact
 
