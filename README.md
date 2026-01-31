@@ -1,21 +1,17 @@
-# \# Big Data Zero to Hero – The Papadimitrioudev Path
+\# Chapter 16 – SQLite Databases in Python
 
-# 
 
-# \## About
 
-# This repo tracks my journey from \*\*zero coding confidence\*\* to \*\*job-ready Big Data Analyst\*\*.  
+This project demonstrates basic usage of SQLite databases with Python,
 
-# Every commit is mine, every project is built \*\*without AI writing code for me\*\*.
+based on Chapter 16 of Automate the Boring Stuff with Python.
 
-# 
 
-# \## Progress Log
 
-# | Day | Date | What I did |
+\## What You Learn
 
-# |-----|------|------------|
 
+<<<<<<< Updated upstream
 # | 0 | 04/11/2025 | Initialized repo, added README 
 # | 1 | 07/11/2025 | ATBS Chapter 1 
 # | 2 | 13/11/2025 | ATBS Chapter 2
@@ -32,9 +28,84 @@
 # | 13 | 20/01/2026 | ATBS Chapter 13
 # | 14 | 22/01/2026 | ATBS Chapter 14
 # | 15 | 30/01/2026 | ATBS Chapter 15
+=======
+>>>>>>> Stashed changes
 
-# \## Contact
+\- What SQLite databases are and when to use them
 
-# \- GitHub: \[@papadimitrioudev](https://github.com/papadimitrioudev)
+\- How to connect to a SQLite database using Python
 
-# \- Site: \[papadimitrioudev](https://papadimitrioudev.netlify.app)
+\- How to create tables
+
+\- How to insert and fetch data
+
+\- Basic SQL usage inside Python scripts
+
+
+
+\## Setup
+
+
+
+1\. Make sure you have Python 3 installed.
+
+2\. Clone this repository.
+
+3\. Navigate to the project folder.
+
+4\. Run the script.
+
+
+
+\## How to Run
+
+
+
+\### From terminal
+
+
+
+cd chapter16-sqlite-project
+
+python src/main.py
+
+
+
+\### From PyCharm
+
+
+
+1\. Open the project folder as a PyCharm project.
+
+2\. Locate src/main.py.
+
+3\. Right-click on main.py and select Run.
+
+
+
+\## Project Structure
+
+
+
+chapter16-sqlite-project/
+
+├── src/
+
+│   └── main.py
+
+├── README.md
+
+└── requirements.txt
+
+
+
+\## Notes
+
+
+
+\- The database file students.db is created automatically when the script runs.
+
+\- SQLite is part of Python’s standard library, so no extra dependencies are required.
+
+\- The database file should not be committed to GitHub.
+

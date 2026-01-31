@@ -1,0 +1,1 @@
+# Uses standard library only (sqlite3), no extra installs required
